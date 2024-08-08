@@ -31,7 +31,7 @@ http://tv.cloudcdn.me/live.ts?channelId=43404&uid=9246&deviceMac=00:1A:79:1F:2E:
 https://jio.drmlive.au/jio/bpk-tv/Polimer_TV_MOB/Fallback/index.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png",Vasanth Tv
 #EXTGRP:Tamil Pack
-https://jioplus.dinesh29.com.np/live/jioplus-universal/vasanth-tv/index.ts
+http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
 #EXTINF:0 tvg-logo="https://jioplus.dinesh29.com.np/smart/ardinesh/logos/puthu-yugam.png",Puthuyugam
 #EXTGRP:Tamil Pack
 https://jioplus.dinesh29.com.np/live/jioplus-universal/puthu-yugam/index.ts
