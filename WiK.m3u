@@ -28,7 +28,7 @@ https://allinonereborn.com/4ktv/m3u.php?id=66846
 http://tv.cloudcdn.me/live.ts?channelId=43404&uid=9246&deviceMac=00:1A:79:1F:2E:5A
 #EXTINF:0 tvg-logo="https://jioplus.dinesh29.com.np/smart/ardinesh/logos/polimer-tv.png",Polimer Tv
 #EXTGRP:Tamil Pack
-https://allinonereborn.com/tatatv.php?id=787
+https://allinonereborn.com/4ktv/m3u.php?id=66750
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png",Vasanth Tv
 #EXTGRP:Tamil Pack
 http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
@@ -109,7 +109,7 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 http://14.102.123.50:9080/play/a05b
 #EXTINF:0 tvg-logo="https://jioplus.dinesh29.com.np/smart/ardinesh/logos/chutti-tv.png",Chutti Tv
 #EXTGRP:Tamil Pack
-https://allinonereborn.com/tatatv.php?id=846
+https://allinonereborn.com/4ktv/m3u.php?id=67332
 #EXTINF:0 tvg-logo="https://jioplus.dinesh29.com.np/smart/ardinesh/logos/pogo-tamil.png",Pogo
 #EXTGRP:Tamil Pack
 https://allinonereborn.com/tatatv.php?id=11800
@@ -131,6 +131,9 @@ https://jioplus.dinesh29.com.np/live/jioplus-universal/sai-tv/index.ts
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Sankara.png",Sri Sankara
 #EXTGRP:Tamil Pack
 https://allinonereborn.com/tatatv.php?id=9194
+EXTINF:0,OM TV
+#EXTGRP:Tamil Pack
+https://allinonereborn.com/4ktv/m3u.php?id=67062 
 #EXTINF:0 tvg-logo="https://jioplus.dinesh29.com.np/smart/ardinesh/logos/sadhguru-television-hd.png",Sadhguru Tv
 #EXTGRP:Tamil Pack
 https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=1201&e=.m3u
@@ -139,7 +142,7 @@ https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=1201&e=.m3u
 http://extraott.com:80/4183813400/7514985385/187251
 #EXTINF:0,Test Channel
 #EXTGRP:Tamil Pack
-https://allinonereborn.com/tatatv.php?id=768
+https://allinonereborn.com/4ktv/m3u.php?id=66714
 #EXTINF:0,Test Channel 2
 #EXTGRP:Tamil Pack
 https://allinonereborn.com/tatatv.php?id=58180
