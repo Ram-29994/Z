@@ -28,7 +28,7 @@ https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=43404&uid=9246&deviceMac=00:1A:79:1F:2E:5A
 #EXTINF:0 tvg-logo="https://jioplus.dinesh29.com.np/smart/ardinesh/logos/polimer-tv.png",Polimer Tv
 #EXTGRP:Tamil Pack
-https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=705&e=.m3u
+https://allinonereborn.com/tatatv.php?id=787
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png",Vasanth Tv
 #EXTGRP:Tamil Pack
 http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
@@ -109,16 +109,16 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 http://14.102.123.50:9080/play/a05b
 #EXTINF:0 tvg-logo="https://jioplus.dinesh29.com.np/smart/ardinesh/logos/chutti-tv.png",Chutti Tv
 #EXTGRP:Tamil Pack
-https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=557&e=.m3u
+https://allinonereborn.com/tatatv.php?id=846
 #EXTINF:0 tvg-logo="https://jioplus.dinesh29.com.np/smart/ardinesh/logos/pogo-tamil.png",Pogo
 #EXTGRP:Tamil Pack
-https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=542&e=.m3u
+https://allinonereborn.com/tatatv.php?id=11800
 #EXTINF:0 tvg-logo="https://jioplus.dinesh29.com.np/smart/ardinesh/logos/cartoon-network-tamil.png",CN HD plus
 #EXTGRP:Tamil Pack
-https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=1081&e=.m3u
+https://allinonereborn.com/tatatv.php?id=9186
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jothi_TV.png",Jothi Tv
 #EXTGRP:Tamil Pack
-https://jioplus.dinesh29.com.np/live/jioplus-universal/jothi-tv/index.ts
+https://allinonereborn.com/tatatv.php?id=11794
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC2.png",SVBC Tamil
 #EXTGRP:Tamil Pack
 https://ythls.armelin.one/channel/UCTboTRX74UydvU_cBdm_cCQ.m3u8
@@ -130,7 +130,7 @@ https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/chunklist_b464000.m
 https://jioplus.dinesh29.com.np/live/jioplus-universal/sai-tv/index.ts
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Sankara.png",Sri Sankara
 #EXTGRP:Tamil Pack
-https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=829&e=.m3u
+https://allinonereborn.com/tatatv.php?id=9194
 #EXTINF:0 tvg-logo="https://jioplus.dinesh29.com.np/smart/ardinesh/logos/sadhguru-television-hd.png",Sadhguru Tv
 #EXTGRP:Tamil Pack
 https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=1201&e=.m3u
@@ -139,4 +139,7 @@ https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=1201&e=.m3u
 http://extraott.com:80/4183813400/7514985385/187251
 #EXTINF:0,Test Channel
 #EXTGRP:Tamil Pack
-https://allinonereborn.com/web/sony-bbc-earth.html
+https://allinonereborn.com/tatatv.php?id=768
+#EXTINF:0,Test Channel 2
+#EXTGRP:Tamil Pack
+https://allinonereborn.com/tatatv.php?id=58180
