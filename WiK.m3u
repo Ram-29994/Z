@@ -19,7 +19,7 @@ http://116.202.46.40:9023/JAYA_TV_TAMIL/index.m3u8
 http://116.202.46.40:9023/JAYA_MOVIES_TAMIL/index.m3u8
 #EXTINF:0 tvg-logo="https://jioplus.dinesh29.com.np/smart/ardinesh/logos/dd5-podhigai.png",DD Tamil
 #EXTGRP:Tamil Pack
-https://allinonereborn.com/4ktv/m3u.php?id=66738
+http://188.241.218.199:49893/ghLs2zdZSnFvTT00002c70263e5e9173222c96a2ea7f70529761c66163/video.m3u8?token=40571ae02ccaace324a72994fe844250
 #EXTINF:0 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/sirippoli-tv-white.png",Kalaignar Sirippoli
 #EXTGRP:Tamil Pack
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
