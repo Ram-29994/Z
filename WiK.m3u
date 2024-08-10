@@ -143,3 +143,9 @@ https://allinonereborn.com/tatatv.php?id=768
 #EXTINF:0,Test Channel 2
 #EXTGRP:Tamil Pack
 https://allinonereborn.com/tatatv.php?id=58180
+#EXTINF:0 tvg-id="37" group-title="Tamil", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-111-j5fl5xo8-v1/imageContent-111-j5fl5xo8-m1.png", Mega TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4-jOZhhrZ2DGvdo9P3CUuA","kid":"Dl4GLCCIVCCCcU8URbYeig"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"cookie":"hdntl=exp=1722730377~acl=%2f*~data=hdntl~hmac=57f2a5555d9b575bfc0598819b825bbe8e0d0b9c06e5e4c971a6497af1f6146a"}
+https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_347/output/toxicify.mpd|cookie:hdntl=exp=1722730377~acl=%2f*~data=hdntl~hmac=57f2a5555d9b575bfc0598819b825bbe8e0d0b9c06e5e4c971a6497af1f6146a
