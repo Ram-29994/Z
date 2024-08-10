@@ -19,7 +19,7 @@ http://116.202.46.40:9023/JAYA_TV_TAMIL/index.m3u8
 http://116.202.46.40:9023/JAYA_MOVIES_TAMIL/index.m3u8
 #EXTINF:0 tvg-logo="https://jioplus.dinesh29.com.np/smart/ardinesh/logos/dd5-podhigai.png",DD Tamil
 #EXTGRP:Tamil Pack
-https://allinonereborn.in/dd-2511.m3u8?id=977
+https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=977&e=.m3u
 #EXTINF:0 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/sirippoli-tv-white.png",Kalaignar Sirippoli
 #EXTGRP:Tamil Pack
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
@@ -139,4 +139,4 @@ https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=1201&e=.m3u
 http://extraott.com:80/4183813400/7514985385/187251
 #EXTINF:0,Test Channel
 #EXTGRP:Tamil Pack
-https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=970&e=.m3u
+https://allinonereborn.com/livetv-web/?watch=977
