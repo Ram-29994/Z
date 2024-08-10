@@ -22,7 +22,7 @@ http://116.202.46.40:9023/JAYA_MOVIES_TAMIL/index.m3u8
 http://14.102.123.50:9080/play/a0lm
 #EXTINF:0 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/sirippoli-tv-white.png",Kalaignar Sirippoli
 #EXTGRP:Tamil Pack
-https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+http://14.102.123.50:9080/play/a0p2
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Adithya_TV.png",Adhitya
 #EXTGRP:Tamil Pack
 http://tv.cloudcdn.me/live.ts?channelId=43404&uid=9246&deviceMac=00:1A:79:1F:2E:5A
