@@ -109,10 +109,10 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 http://14.102.123.50:9080/play/a05b
 #EXTINF:0 tvg-logo="https://jioplus.dinesh29.com.np/smart/ardinesh/logos/chutti-tv.png",Chutti Tv
 #EXTGRP:Tamil Pack
-https://allinonereborn.com/4ktv/m3u.php?id=67332
+http://14.102.123.50:5001/live/557.m3u8
 #EXTINF:0 tvg-logo="https://jioplus.dinesh29.com.np/smart/ardinesh/logos/pogo-tamil.png",Pogo
 #EXTGRP:Tamil Pack
-https://allinonereborn.com/tatatv.php?id=11800
+http://14.102.123.50:5001/live/542.m3u8
 #EXTINF:0 tvg-logo="https://jioplus.dinesh29.com.np/smart/ardinesh/logos/cartoon-network-tamil.png",CN HD plus
 #EXTGRP:Tamil Pack
 https://jio.dinesh29.com.np/live/jio-universal/cartoon-network-tamil/index.ts
