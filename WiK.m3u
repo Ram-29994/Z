@@ -10,7 +10,7 @@ http://217.20.112.199/suntv/index.m3u8
 http://116.202.46.40:9023/ZEE_TAMIL/index.m3u8
 #EXTINF:0 tvg-logo="https://jioplus.dinesh29.com.np/smart/ardinesh/logos/ktv-hd.png",KTV HD
 #EXTGRP:Tamil Pack
-http://14.102.123.50:9080/play/a0j7
+http://116.202.46.40:789/KTV_TAMIL/index.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png",JAYA TV HD
 #EXTGRP:Tamil Pack
 http://116.202.46.40:9023/JAYA_TV_TAMIL/index.m3u8
