@@ -28,7 +28,7 @@ https://allinonereborn.com/4ktv/m3u.php?id=66846
 http://tv.cloudcdn.me/live.ts?channelId=43404&uid=9246&deviceMac=00:1A:79:1F:2E:5A
 #EXTINF:0 tvg-logo="https://jioplus.dinesh29.com.np/smart/ardinesh/logos/polimer-tv.png",Polimer Tv
 #EXTGRP:Tamil Pack
-https://jio.dinesh29.com.np/live/jio-universal/polimer-tv/index.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/71176
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png",Vasanth Tv
 #EXTGRP:Tamil Pack
 http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
@@ -55,7 +55,7 @@ https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66
 http://116.202.46.40:9023/SUN_LIFE_TAMIL/index.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png",Polimer news
 #EXTGRP:Tamil Pack
-https://ythls-v3.onrender.com/video/qQi0rd2Iap0.m3u8
+https://ythls.armelin.one/video/qQi0rd2Iap0.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Janam_TV.png",Janam Tamil
 #EXTGRP:Tamil Pack
 https://ythls.armelin.one/video/xjiP6cLotFo.m3u8
@@ -106,7 +106,7 @@ https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png",SONY BBC EARTH FHD
 #EXTGRP:Tamil Pack
-http://14.102.123.50:9080/play/a05b
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/71174
 #EXTINF:0 tvg-logo="https://jioplus.dinesh29.com.np/smart/ardinesh/logos/chutti-tv.png",Chutti Tv
 #EXTGRP:Tamil Pack
 http://14.102.123.50:5001/live/557.m3u8
@@ -115,7 +115,7 @@ http://14.102.123.50:5001/live/557.m3u8
 http://14.102.123.50:5001/live/542.m3u8
 #EXTINF:0 tvg-logo="https://jioplus.dinesh29.com.np/smart/ardinesh/logos/cartoon-network-tamil.png",CN HD plus
 #EXTGRP:Tamil Pack
-https://jio.dinesh29.com.np/live/jio-universal/cartoon-network-tamil/index.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/71162
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jothi_TV.png",Jothi Tv
 #EXTGRP:Tamil Pack
 https://allinonereborn.com/tatatv.php?id=11794
@@ -134,9 +134,12 @@ https://allinonereborn.com/tatatv.php?id=9194
 #EXTINF:0 tvg-logo="https://jioplus.dinesh29.com.np/smart/ardinesh/logos/sadhguru-television-hd.png",Sadhguru Tv
 #EXTGRP:Tamil Pack
 https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=1201&e=.m3u
-#EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png",SONY BBC EARTH FHD Tamil
+#EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png",SONY BBC EARTH Origin Tamil
 #EXTGRP:Tamil Pack
 http://extraott.com:80/4183813400/7514985385/187251
+#EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png",SONY BBC EARTH Dual
+#EXTGRP:Tamil Pack
+http://14.102.123.50:9080/play/a05b
 #EXTINF:0,Test Channel
 #EXTGRP:Tamil Pack
 http://mag.trexlive.me:80/Michael88/Michael88/155898
