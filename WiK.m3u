@@ -58,34 +58,34 @@ http://116.202.46.40:9023/SUN_LIFE_TAMIL/index.m3u8
 https://ythls.kekikakademi.org/youtube/video/98a8zQnes0U.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Janam_TV.png",Janam Tamil
 #EXTGRP:Tamil Pack
-https://ythls.armelin.one/video/xjiP6cLotFo.m3u8
+https://ythls.kekikakademi.org/youtube/video/xjiP6cLotFo.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Plus.png",Jaya Plus
 #EXTGRP:Tamil Pack
-https://hls.youtb.workers.dev/channel/UCOP4Gbw-T1ofcW8vyL89ZDw.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCOP4Gbw-T1ofcW8vyL89ZDw.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_J.png",News J
 #EXTGRP:Tamil Pack
-https://ythls.armelin.one/video/jdtQ0Ij0o68.m3u8
+https://ythls.kekikakademi.org/youtube/video/jdtQ0Ij0o68.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/M_Nadu.png",M Nadu
 #EXTGRP:Tamil Pack
-https://ythls.armelin.one/video/7jOhQEZdNtM.m3u8
+https://ythls.kekikakademi.org/youtube/video/7jOhQEZdNtM.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Malai_Murasu.png",Malaimurasu
 #EXTGRP:Tamil Pack
-https://ythls.armelin.one/video/SDACb4NSqNw.m3u8
+https://ythls.kekikakademi.org/youtube/video/SDACb4NSqNw.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png",Puthiya thalaimurai
 #EXTGRP:Tamil Pack
-https://ythls.armelin.one/video/RUzgphgBRzI.m3u8
+https://ythls.kekikakademi.org/youtube/video/RUzgphgBRzI.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Thanthi_TV.png",Thanthi
 #EXTGRP:Tamil Pack
-https://ythls.armelin.one/video/j1nzTy5q_1Y.m3u8
+https://ythls.kekikakademi.org/youtube/video/j1nzTy5q_1Y.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Malayalam.png",Raj News
 #EXTGRP:Tamil Pack
-https://ythls.armelin.one/channel/UC1mkFVHzP87YQ87PSMxo9MQ.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UC1mkFVHzP87YQ87PSMxo9MQ.m3u8
 #EXTINF:0,Chanakya Tv
 #EXTGRP:Tamil Pack
-https://ythls.armelin.one/channel/UCoOu4D7foJWfKvcDLxqrF2Q.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCoOu4D7foJWfKvcDLxqrF2Q.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Zee_Tamil_News.webp/352px-Zee_Tamil_News.webp.png",Zee news
 #EXTGRP:Tamil Pack
-https://ythls.armelin.one/video/f4LenpMrsVw.m3u8
+https://ythls.kekikakademi.org/youtube/video/f4LenpMrsVw.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/News18_tamilnadu_logo.png/revision/latest?cb=20191220041016",News18 Tamil
 #EXTGRP:Tamil Pack
 https://jmp2.uk/SamsungTVPlus/INBD25000148M.m3u8
@@ -94,10 +94,10 @@ https://jmp2.uk/SamsungTVPlus/INBD25000148M.m3u8
 https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/news7_nim_https/44fce422-9770-48ef-bff5-96eaa1c0f999/3.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png",DD News
 #EXTGRP:Tamil Pack
-https://ythls.armelin.one/channel/UCKwucPzHZ7zCUIf7If-Wo1g.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UCKwucPzHZ7zCUIf7If-Wo1g.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajyasabha.png",Lok Sabha Tamil
 #EXTGRP:Tamil Pack
-https://ythls.armelin.one/video/IInJ6Vrcu9Q.m3u8
+https://ythls.kekikakademi.org/youtube/video/IInJ6Vrcu9Q.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png",Republic TV
 #EXTGRP:Tamil Pack
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8
@@ -142,4 +142,4 @@ http://extraott.com:80/4183813400/7514985385/187251
 http://14.102.123.50:9080/play/a05b
 #EXTINF:0,NaMo YT
 #EXTGRP:Tamil Pack
-https://ythls.armelin.one/channel/UC1NF71EwP41VdjAU1iXdLkw.m3u8
+https://ythls.kekikakademi.org/youtube/channel/UC1NF71EwP41VdjAU1iXdLkw.m3u8
