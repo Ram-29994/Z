@@ -106,7 +106,7 @@ https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png",SONY BBC EARTH FHD
 #EXTGRP:Tamil Pack
-http://103.141.2.38/hls/bbcearth.m3u8
+https://jmp2.uk/SamsungTVPlus/USBD1700001RW.m3u8
 #EXTINF:0 tvg-logo="https://jioplus.dinesh29.com.np/smart/ardinesh/logos/chutti-tv.png",Chutti Tv
 #EXTGRP:Tamil Pack
 http://14.102.123.50:5001/live/557.m3u8
