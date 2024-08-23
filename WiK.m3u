@@ -146,6 +146,12 @@ https://yuvraj.fun/tp-bvsfg/manifest.mpd/?id=158
 #EXTINF:0,Test Channel 2
 #EXTGRP:Tamil Pack
 https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+#EXTINF:0,Test Channel 3
+#EXTGRP:Tamil Pack
+https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
+#EXTINF:0,Test Channel 4
+#EXTGRP:Tamil Pack
+https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonybbcearth
 #EXTINF:0,NaMo YT
 #EXTGRP:Tamil Pack
 https://ythls.armelin.one/channel/UC1NF71EwP41VdjAU1iXdLkw.m3u8
