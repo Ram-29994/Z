@@ -142,7 +142,10 @@ http://extraott.com:80/4183813400/7514985385/187251
 http://14.102.123.50:9080/play/a05b
 #EXTINF:0,Test Channel
 #EXTGRP:Tamil Pack
-http://84.17.41.7/SONYEARTH/HD/HIN/index.m3u8
+https://yuvraj.fun/tp-bvsfg/manifest.mpd/?id=158
 #EXTINF:0,Test Channel 2
 #EXTGRP:Tamil Pack
-https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
+https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+#EXTINF:0,NaMo YT
+#EXTGRP:Tamil Pack
+https://ythls.armelin.one/channel/UC1NF71EwP41VdjAU1iXdLkw.m3u8
