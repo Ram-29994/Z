@@ -113,9 +113,9 @@ http://14.102.123.50:5001/live/557.m3u8
 #EXTINF:0 tvg-logo="https://jioplus.dinesh29.com.np/smart/ardinesh/logos/pogo-tamil.png",Pogo
 #EXTGRP:Tamil Pack
 http://14.102.123.50:5001/live/542.m3u8
-#EXTINF:0 tvg-logo="https://jioplus.dinesh29.com.np/smart/ardinesh/logos/cartoon-network-tamil.png",CN HD plus
+#EXTINF:0 tvg-logo="https://jioplus.dinesh29.com.np/smart/ardinesh/logos/cartoon-network-tamil.png",Discovery Kids
 #EXTGRP:Tamil Pack
-https://mrking.site/JOPE/stalker.m3u8?id=1115
+http://d4k4u.com:2082/play/live.php?mac=00:1A:79:63:3C:D2&stream=277112&extension=ts
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jothi_TV.png",Jothi Tv
 #EXTGRP:Tamil Pack
 https://allinonereborn.com/tatatv.php?id=11794
@@ -140,27 +140,6 @@ http://extraott.com:80/4183813400/7514985385/187251
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png",SONY BBC EARTH Dual
 #EXTGRP:Tamil Pack
 http://14.102.123.50:9080/play/a05b
-#EXTINF:0,Test Channel Mpd
-#EXTGRP:Tamil Pack
-https://yuvraj.fun/tp-bvsfg/manifest.mpd/?id=158
-#EXTINF:0,Test Channel BBC Earth Eng
-#EXTGRP:Tamil Pack
-https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
-#EXTINF:0,Test Channel Mega
-#EXTGRP:Tamil Pack
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226365/index.m3u8
-#EXTINF:0,Test Channel Polimer
-#EXTGRP:Tamil Pack
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226103/index.m3u8
-#EXTINF:0,Test Channel Puthuyugam
-#EXTGRP:Tamil Pack
-http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226313/index.m3u8
-#EXTINF:0,Test Channel Vendhar
-#EXTGRP:Tamil Pack
-http://45.79.203.234:1935/vendharm/myStream/chunklist_w200179631index.m3u8
-#EXTINF:0,Test Channel WIN
-#EXTGRP:Tamil Pack
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226251/index.m3u8
 #EXTINF:0,NaMo YT
 #EXTGRP:Tamil Pack
 https://ythls.armelin.one/channel/UC1NF71EwP41VdjAU1iXdLkw.m3u8
