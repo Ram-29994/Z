@@ -19,7 +19,7 @@ http://116.202.46.40:9023/JAYA_TV_TAMIL/index.m3u8
 http://116.202.46.40:9023/JAYA_MOVIES_TAMIL/index.m3u8
 #EXTINF:0 tvg-logo="https://jioplus.dinesh29.com.np/smart/ardinesh/logos/dd5-podhigai.png",DD Tamil
 #EXTGRP:Tamil Pack
-http://14.102.123.50:9080/play/a0lm
+http://172.105.123.238:18002/play/a00n
 #EXTINF:0 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/sirippoli-tv-white.png",Kalaignar Sirippoli
 #EXTGRP:Tamil Pack
 https://allinonereborn.com/4ktv/m3u.php?id=66846
@@ -28,7 +28,7 @@ https://allinonereborn.com/4ktv/m3u.php?id=66846
 http://tv.cloudcdn.me/live.ts?channelId=43404&uid=9246&deviceMac=00:1A:79:1F:2E:5A
 #EXTINF:0 tvg-logo="https://jioplus.dinesh29.com.np/smart/ardinesh/logos/polimer-tv.png",Polimer Tv
 #EXTGRP:Tamil Pack
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/71176
+http://172.105.123.238:18002/play/a04c
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png",Vasanth Tv
 #EXTGRP:Tamil Pack
 http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
@@ -137,15 +137,60 @@ https://livegeoroueu.akamaized.net/250723/smil:sankaratam1.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://jioplus.dinesh29.com.np/smart/ardinesh/logos/sadhguru-television-hd.png",Sadhguru Tv
 #EXTGRP:Tamil Pack
 https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=1201&e=.m3u
+#EXTINF:0,SANSAD  TV (RAJYA SABHA)
+#EXTGRP:Tamil Pack
+http://172.105.123.238:18002/play/a00t
+#EXTINF:0,SANSAD TV
+#EXTGRP:Tamil Pack
+http://172.105.123.238:18002/play/a00s
+#EXTINF:0,DD NEWS HD
+#EXTGRP:Tamil Pack
+http://172.105.123.238:18002/play/a02x
+#EXTINF:0,DD Nagaland
+#EXTGRP:Tamil Pack
+http://172.105.123.238:18002/play/a033
+#EXTINF:0,DD National
+#EXTGRP:Tamil Pack
+http://172.105.123.238:18002/play/a003
+#EXTINF:0,DD Oriya
+#EXTGRP:Tamil Pack
+http://172.105.123.238:18002/play/a02n
+#EXTINF:0,DD Punjabi
+#EXTGRP:Tamil Pack
+http://172.105.123.238:18002/play/a00o
+#EXTINF:0,DD RAJASTHAN
+#EXTGRP:Tamil Pack
+http://172.105.123.238:18002/play/a02a
+#EXTINF:0,DD SPORTS
+#EXTGRP:Tamil Pack
+http://172.105.123.238:18002/play/a02b
+#EXTINF:0,DD SPORTS HD
+#EXTGRP:Tamil Pack
+http://172.105.123.238:18002/play/a03d
+#EXTINF:0,DD Sahyadri
+#EXTGRP:Tamil Pack
+http://172.105.123.238:18002/play/a00p
+#EXTINF:0,DD Saptagiri
+#EXTGRP:Tamil Pack
+http://172.105.123.238:18002/play/a02k
+#EXTINF:0,DD TRIPURA
+#EXTGRP:Tamil Pack
+http://172.105.123.238:18002/play/a02f
+#EXTINF:0,DD UP
+#EXTGRP:Tamil Pack
+http://172.105.123.238:18002/play/a028
+#EXTINF:-1,DD UTTARAKHAND
+#EXTGRP:Tamil Pack
+http://172.105.123.238:18002/play/a02j
+#EXTINF:-1,DD Urdu
+#EXTGRP:Tamil Pack
+http://172.105.123.238:18002/play/a03b
+#EXTINF:0,DD Yadagiri
+#EXTGRP:Tamil Pack
+http://172.105.123.238:18002/play/a027
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png",SONY BBC EARTH Origin Tamil
 #EXTGRP:Tamil Pack
 http://extraott.com:80/4183813400/7514985385/187251
-#EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png",SONY BBC EARTH Dual
-#EXTGRP:Tamil Pack
-http://14.102.123.50:9080/play/a05b
-#EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png",BBC EARTH New
-#EXTGRP:Tamil Pack
-http://124.29.225.205:8000/play/a04a/index.m3u8
 #EXTINF:0,NaMo YT
 #EXTGRP:Tamil Pack
 https://ythls.kekikakademi.org/youtube/channel/UC1NF71EwP41VdjAU1iXdLkw.m3u8
