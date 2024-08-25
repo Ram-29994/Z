@@ -34,10 +34,10 @@ http://172.105.123.238:18002/play/a04c
 http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
 #EXTINF:0 tvg-logo="https://jioplus.dinesh29.com.np/smart/ardinesh/logos/puthu-yugam.png",Puthuyugam
 #EXTGRP:Tamil Pack
-https://jioplus.dinesh29.com.np/live/jioplus-universal/puthu-yugam/index.ts
+http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vendhar_TV.png",Vendhar Tv
 #EXTGRP:Tamil Pack
-https://jioplus.dinesh29.com.np/live/jioplus-universal/vendhar-tv/index.ts
+https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/pr_live_ire_sd/70946668-e572-4b7d-b5cf-ba52cd3976a1/1.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png",Raj Tv
 #EXTGRP:Tamil Pack
 http://116.202.46.40:9023/RAJ_TV_TAMIL/index.m3u8
@@ -133,7 +133,7 @@ https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/chunklist_b464000.m
 https://jioplus.dinesh29.com.np/live/jioplus-universal/sai-tv/index.ts
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Sankara.png",Sri Sankara
 #EXTGRP:Tamil Pack
-https://livegeoroueu.akamaized.net/250723/smil:sankaratam1.smil/playlist.m3u8
+https://livegeoroueu.akamaized.net/120723/smil:sankaratam.smil/chunklist_b1928000.m3u8?hdntl=exp=1724677230~acl=!*/120723/smil:sankaratam.smil/*!yuppTVCom_5_22645189_e3860f62b0124503_IN_59.182.243.154~data=hdntl~hmac=5bc9d62d0eff939cdea815c1336ec3231050f9b40da8614a3abe55d06999df3c
 #EXTINF:0 tvg-logo="https://jioplus.dinesh29.com.np/smart/ardinesh/logos/sadhguru-television-hd.png",Sadhguru Tv
 #EXTGRP:Tamil Pack
 https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=1201&e=.m3u
