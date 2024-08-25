@@ -44,9 +44,9 @@ http://116.202.46.40:9023/RAJ_TV_TAMIL/index.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png",Raj Digital Plus
 #EXTGRP:Tamil Pack
 http://116.202.46.40:9023/RAJ_DIGITAL_PLUS_TAMIL/index.m3u8
-#EXTINF:0,Mega Tv
+#EXTINF:0 tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240603_0608231733608464190748767.png",Mega Tv
 #EXTGRP:Tamil Pack
-http://ott1.co:8080/live/08042023/123456789/28141.ts
+http://tr.redatvgold.com:80/play/live.php?mac=00:1a:79:4D:49:B3&stream=1526450&extension=ts&play_token=2mQK1mwmWg
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Makkal_TV.png",Makkal Tv
 #EXTGRP:Tamil Pack
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
@@ -80,7 +80,7 @@ https://ythls.kekikakademi.org/youtube/video/j1nzTy5q_1Y.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Malayalam.png",Raj News
 #EXTGRP:Tamil Pack
 https://ythls.kekikakademi.org/youtube/channel/UC1mkFVHzP87YQ87PSMxo9MQ.m3u8
-#EXTINF:0,Chanakya Tv
+#EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.6fPXdgiG2yfa531VA4sJeAHaHa?rs=1&pid=ImgDetMain",Chanakya Tv
 #EXTGRP:Tamil Pack
 https://ythls.kekikakademi.org/youtube/channel/UCoOu4D7foJWfKvcDLxqrF2Q.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Zee_Tamil_News.webp/352px-Zee_Tamil_News.webp.png",Zee news
@@ -128,9 +128,9 @@ https://ythls.kekikakademi.org/youtube/channel/UCTboTRX74UydvU_cBdm_cCQ.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Tamil.png",Aastha Tamil
 #EXTGRP:Tamil Pack
 https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/chunklist_b464000.m3u8
-#EXTINF:0 tvg-logo="https://jioplus.dinesh29.com.np/smart/ardinesh/logos/sai-tv.png",Sai Tv
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SaiTV.png",Sai Tv
 #EXTGRP:Tamil Pack
-https://jioplus.dinesh29.com.np/live/jioplus-universal/sai-tv/index.ts
+http://198.144.149.206:8080/NOTV/SAITVMD/tracks-v1a1/mono.m3u8?token=GTR
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Sankara.png",Sri Sankara
 #EXTGRP:Tamil Pack
 https://livegeoroueu.akamaized.net/120723/smil:sankaratam.smil/chunklist_b1928000.m3u8?hdntl=exp=1724677230~acl=!*/120723/smil:sankaratam.smil/*!yuppTVCom_5_22645189_e3860f62b0124503_IN_59.182.243.154~data=hdntl~hmac=5bc9d62d0eff939cdea815c1336ec3231050f9b40da8614a3abe55d06999df3c
