@@ -8,16 +8,16 @@ http://217.20.112.199/suntv/index.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",ZEE TAMIL HD
 #EXTGRP:Tamil Pack
 http://116.202.46.40:9023/ZEE_TAMIL/index.m3u8
-#EXTINF:0 tvg-logo="https://jioplus.dinesh29.com.np/smart/ardinesh/logos/ktv-hd.png",KTV HD
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",KTV HD
 #EXTGRP:Tamil Pack
-http://116.202.46.40:789/KTV_TAMIL/index.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=43411&uid=5353&deviceMac=00:1A:79:17:D4:65
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png",JAYA TV HD
 #EXTGRP:Tamil Pack
 http://116.202.46.40:9023/JAYA_TV_TAMIL/index.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png",JAYA MOVIES HD
 #EXTGRP:Tamil Pack
 http://116.202.46.40:9023/JAYA_MOVIES_TAMIL/index.m3u8
-#EXTINF:0 tvg-logo="https://jioplus.dinesh29.com.np/smart/ardinesh/logos/dd5-podhigai.png",DD Tamil
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png",DD Tamil
 #EXTGRP:Tamil Pack
 http://172.105.123.238:18002/play/a00n
 #EXTINF:0 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/sirippoli-tv-white.png",Kalaignar Sirippoli
@@ -26,13 +26,13 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43521&uid=14505&deviceMac=00:1A:79:A7
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Adithya_TV.png",Adhitya
 #EXTGRP:Tamil Pack
 http://tv.cloudcdn.me/live.ts?channelId=43404&uid=9246&deviceMac=00:1A:79:1F:2E:5A
-#EXTINF:0 tvg-logo="https://jioplus.dinesh29.com.np/smart/ardinesh/logos/polimer-tv.png",Polimer Tv
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png",Polimer Tv
 #EXTGRP:Tamil Pack
 http://tv.cloudcdn.me:80/live.ts?channelId=85931&uid=14505&deviceMac=00:1A:79:A7:53:75
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png",Vasanth Tv
 #EXTGRP:Tamil Pack
 http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
-#EXTINF:0 tvg-logo="https://jioplus.dinesh29.com.np/smart/ardinesh/logos/puthu-yugam.png",Puthuyugam
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthu_Yugam.png",Puthuyugam
 #EXTGRP:Tamil Pack
 http://pythonlived.com:8789/play/live.php?mac=00:1a:79:c6:cc:db&stream=431165&extension=ts
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vendhar_TV.png",Vendhar Tv
@@ -130,13 +130,13 @@ https://ythls.kekikakademi.org/youtube/channel/UCTboTRX74UydvU_cBdm_cCQ.m3u8
 https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/chunklist_b464000.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SaiTV.png",Sai Tv
 #EXTGRP:Tamil Pack
-http://198.144.149.206:8080/NOTV/SAITVMD/tracks-v1a1/mono.m3u8?token=GTR
+https://michael-worlds-reveals-guidance.trycloudflare.com/app/live.php?id=937&e=.m3u
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Sankara.png",Sri Sankara
 #EXTGRP:Tamil Pack
-https://livegeoroueu.akamaized.net/120723/smil:sankaratam.smil/chunklist_b1928000.m3u8?hdntl=exp=1724677230~acl=!*/120723/smil:sankaratam.smil/*!yuppTVCom_5_22645189_e3860f62b0124503_IN_59.182.243.154~data=hdntl~hmac=5bc9d62d0eff939cdea815c1336ec3231050f9b40da8614a3abe55d06999df3c
+https://michael-worlds-reveals-guidance.trycloudflare.com/app/live.php?id=829&e=.m3u
 #EXTINF:0 tvg-logo="https://jioplus.dinesh29.com.np/smart/ardinesh/logos/sadhguru-television-hd.png",Sadhguru Tv
 #EXTGRP:Tamil Pack
-https://blah-engineers-lady-rpg.trycloudflare.com/app/live.php?id=1201&e=.m3u
+https://michael-worlds-reveals-guidance.trycloudflare.com/app/live.php?id=1201&e=.m3u
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajyasabha.png",SANSAD TV RAJYA SABHA
 #EXTGRP:Tamil Pack
 http://172.105.123.238:18002/play/a00t
@@ -146,16 +146,16 @@ https://ythls.kekikakademi.org/youtube/video/IInJ6Vrcu9Q.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png",DD NEWS YT
 #EXTGRP:Tamil Pack
 https://ythls.kekikakademi.org/youtube/channel/UCKwucPzHZ7zCUIf7If-Wo1g.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/HUL4aF6.png",DD Nagaland
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png",DD Nagaland
 #EXTGRP:Tamil Pack
 http://172.105.123.238:18002/play/a033
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png",DD National
 #EXTGRP:Tamil Pack
 http://172.105.123.238:18002/play/a003
-#EXTINF:0 tvg-logo="https://i.imgur.com/Rw61ile.png",DD Oriya
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png",DD Oriya
 #EXTGRP:Tamil Pack
 http://172.105.123.238:18002/play/a02n
-#EXTINF:0 tvg-logo="https://i.imgur.com/WVtl6n2.png",DD Punjabi
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Punjabi.png",DD Punjabi
 #EXTGRP:Tamil Pack
 http://172.105.123.238:18002/play/a00o
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajasthan_Jaipur.png",DD RAJASTHAN
@@ -167,10 +167,10 @@ http://172.105.123.238:18002/play/a02b
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png",DD SPORTS HD
 #EXTGRP:Tamil Pack
 http://172.105.123.238:18002/play/a03d
-#EXTINF:0 tvg-logo="https://i.imgur.com/svjI6U6.png",DD Sahyadri
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sahayadri.png",DD Sahyadri
 #EXTGRP:Tamil Pack
 http://172.105.123.238:18002/play/a00p
-#EXTINF:0 tvg-logo="https://i.imgur.com/tmMEsEe.png",DD Saptagiri
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png",DD Saptagiri
 #EXTGRP:Tamil Pack
 http://172.105.123.238:18002/play/a02k
 #EXTINF:0 tvg-logo="https://i.imgur.com/ctlcdOw.png",DD TRIPURA
@@ -182,7 +182,7 @@ http://172.105.123.238:18002/play/a028
 #EXTINF:0 tvg-logo="https://i.imgur.com/GzBsbos.png",DD UTTARAKHAND
 #EXTGRP:Tamil Pack
 http://172.105.123.238:18002/play/a02j
-#EXTINF:0 tvg-logo="https://i.imgur.com/OiQPS34.png",DD Urdu
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_urdu.png",DD Urdu
 #EXTGRP:Tamil Pack
 http://172.105.123.238:18002/play/a03b
 #EXTINF:0 tvg-logo="https://i.imgur.com/nxnGXJz.png",DD Yadagiri
