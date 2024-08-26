@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=1210000,RESOLUTION=480x360,CODECS="avc1.640015,mp4a.40.2"
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png",SUN TV HD
 #EXTGRP:Tamil Pack
 http://116.202.46.40:9023/SUN_TV_TAMIL/index.m3u8
@@ -174,19 +173,19 @@ http://172.105.123.238:18002/play/a00p
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png",DD Saptagiri
 #EXTGRP:Tamil Pack
 http://172.105.123.238:18002/play/a02k
-#EXTINF:0 tvg-logo="https://i.imgur.com/ctlcdOw.png",DD TRIPURA
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DD_Tripura_2021.png/revision/latest?cb=20240323121555",DD TRIPURA
 #EXTGRP:Tamil Pack
 http://172.105.123.238:18002/play/a02f
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Uttar_Pradesh.png",DD UP
 #EXTGRP:Tamil Pack
 http://172.105.123.238:18002/play/a028
-#EXTINF:0 tvg-logo="https://i.imgur.com/GzBsbos.png",DD UTTARAKHAND
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx_gxPxMxjKNptyF9CwXb0UwwVmiESFgUh2A&usqp=CAU",DD UTTARAKHAND
 #EXTGRP:Tamil Pack
 http://172.105.123.238:18002/play/a02j
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_urdu.png",DD Urdu
 #EXTGRP:Tamil Pack
 http://172.105.123.238:18002/play/a03b
-#EXTINF:0 tvg-logo="https://i.imgur.com/nxnGXJz.png",DD Yadagiri
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/DD_Yadagiri_logo.png",DD Yadagiri
 #EXTGRP:Tamil Pack
 http://172.105.123.238:18002/play/a027
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png",SONY BBC EARTH Origin Tamil
