@@ -1,13 +1,10 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png",SUN TV HD
 #EXTGRP:Tamil Pack
-http://116.202.46.40:9023/SUN_TV_TAMIL/index.m3u8
-#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png",SUN TV HD
-#EXTGRP:Tamil Pack
 http://217.20.112.199/suntv/index.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",ZEE TAMIL HD
 #EXTGRP:Tamil Pack
-http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=14505&deviceMac=00:1A:79:A7:53:75
+http://z88.ubtvfans.com/live/rx4/1460/a7bcbdf7d52d7e6641c304453555e5ee/index.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png",KTV HD
 #EXTGRP:Tamil Pack
 http://tv.cloudcdn.me:80/live.ts?channelId=43411&uid=5353&deviceMac=00:1A:79:17:D4:65
@@ -52,7 +49,7 @@ http://tr.redatvgold.com:80/play/live.php?mac=00:1a:79:4D:49:B3&stream=1526450&e
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Life.png",SUN LIFE HD
 #EXTGRP:Tamil Pack
-http://116.202.46.40:9023/SUN_LIFE_TAMIL/index.m3u8
+https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index.mpd?|drmScheme=clearkey&drmLicense=81546df3f41c4a6dbc9a4efc7f2fb626:3928505f4054cf1fa935276fdbe40992
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png",Polimer news
 #EXTGRP:Tamil Pack
 https://ythls.kekikakademi.org/youtube/video/98a8zQnes0U.m3u8
