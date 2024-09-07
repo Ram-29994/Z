@@ -4,7 +4,7 @@
 http://217.20.112.199/suntv/index.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",ZEE TAMIL HD
 #EXTGRP:Tamil Pack
-http://116.202.46.40:9023/ZEE_TAMIL/index.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetamil1/default/zeetamil1.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",ZEE TAMIL
 #EXTGRP:Tamil Pack
 https://sundirect.pc.cdn.bitgravity.com/bpk-tv/Zeetamil/free/index.mpd
