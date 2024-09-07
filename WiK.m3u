@@ -25,13 +25,13 @@ http://172.105.123.238:18002/play/a00n
 http://tv.cloudcdn.me:80/live.ts?channelId=43521&uid=14505&deviceMac=00:1A:79:A7:53:75
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Adithya_TV.png",Adhitya
 #EXTGRP:Tamil Pack
-http://xtv.ooo:8080/77788900/6633322/380995
+https://allinonereborn.com/spice.m3u8?id=897
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png",Polimer Tv
 #EXTGRP:Tamil Pack
 http://tv.cloudcdn.me:80/live.ts?channelId=85931&uid=14505&deviceMac=00:1A:79:A7:53:75
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png",Vasanth Tv
 #EXTGRP:Tamil Pack
-http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
+https://allinonereborn.com/spice.m3u8?id=816
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthu_Yugam.png",Puthuyugam
 #EXTGRP:Tamil Pack
 http://pythonlived.com:8789/play/live.php?mac=00:1a:79:c6:cc:db&stream=431165&extension=ts
@@ -40,10 +40,10 @@ http://pythonlived.com:8789/play/live.php?mac=00:1a:79:c6:cc:db&stream=431165&ex
 https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/pr_live_ire_sd/70946668-e572-4b7d-b5cf-ba52cd3976a1/1.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png",Raj Tv
 #EXTGRP:Tamil Pack
-http://xtv.ooo:8080/77788900/6633322/381063
+https://allinonereborn.com/spice.m3u8?id=5211
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png",Raj Digital Plus
 #EXTGRP:Tamil Pack
-http://xtv.ooo:8080/77788900/6633322/381068
+https://allinonereborn.com/spice.m3u8?id=4102
 #EXTINF:0 tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240603_0608231733608464190748767.png",Mega Tv
 #EXTGRP:Tamil Pack
 http://tr.redatvgold.com:80/play/live.php?mac=00:1a:79:4D:49:B3&stream=1526450&extension=ts&play_token=2mQK1mwmWg
@@ -55,7 +55,7 @@ https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66
 http://xtv.ooo:8080/77788900/6633322/380968
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png",Polimer news
 #EXTGRP:Tamil Pack
-https://ythls.kekikakademi.org/youtube/video/q0-WmwdX5rw.m3u8
+https://allinonereborn.com/spice.m3u8?id=921
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Janam_TV.png",Janam Tamil
 #EXTGRP:Tamil Pack
 https://ythls.kekikakademi.org/youtube/video/xjiP6cLotFo.m3u8
@@ -106,7 +106,7 @@ https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png",SONY BBC EARTH FHD
 #EXTGRP:Tamil Pack
-http://xtv.ooo:8080/77788900/6633322/381075
+https://allinonereborn.com/spice.m3u8?id=4094
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Chutti_TV.png",Chutti Tv
 #EXTGRP:Tamil Pack
 http://14.102.123.50:5001/live/557.m3u8
@@ -130,10 +130,10 @@ https://ythls.kekikakademi.org/youtube/channel/UCTboTRX74UydvU_cBdm_cCQ.m3u8
 https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/chunklist_b464000.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SaiTV.png",Sai Tv
 #EXTGRP:Tamil Pack
-https://michael-worlds-reveals-guidance.trycloudflare.com/app/live.php?id=937&e=.m3u
+https://allinonereborn.com/spice.m3u8?id=851
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Sankara.png",Sri Sankara
 #EXTGRP:Tamil Pack
-https://michael-worlds-reveals-guidance.trycloudflare.com/app/live.php?id=829&e=.m3u
+https://allinonereborn.com/spice.m3u8?id=1704
 #EXTINF:0 tvg-logo="https://jioplus.dinesh29.com.np/smart/ardinesh/logos/sadhguru-television-hd.png",Sadhguru Tv
 #EXTGRP:Tamil Pack
 https://michael-worlds-reveals-guidance.trycloudflare.com/app/live.php?id=1201&e=.m3u
@@ -194,3 +194,14 @@ http://extraott.com:80/4183813400/7514985385/187251
 #EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/olJBnzmegLV8tmHgmJxovGrB85s-DtPsxwV0_cvfdYth953-8gO6it54UKwJ0C0iVK0",NaMo YT
 #EXTGRP:Tamil Pack
 https://ythls.kekikakademi.org/youtube/channel/UC1NF71EwP41VdjAU1iXdLkw.m3u8
+#EXTINF:0 ,Test Channel 1
+#EXTGRP:Tamil Pack
+https://allinonereborn.com/spice.m3u8?id=818
+#EXTINF:0 ,Test Channel 2
+#EXTGRP:Tamil Pack
+https://allinonereborn.com/spice.m3u8?id=918
+#EXTINF:0 ,Test Channel 2
+#EXTGRP:Tamil Pack
+https://allinonereborn.com/spice.m3u8?id=899
+
+
