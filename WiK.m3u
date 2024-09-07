@@ -2,12 +2,12 @@
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png",SUN TV HD
 #EXTGRP:Tamil Pack
 http://217.20.112.199/suntv/index.m3u8
-#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",ZEE TAMIL HD
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",ZEE TAMIL
 #EXTGRP:Tamil Pack
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetamil1/default/zeetamil1.m3u8
-#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",ZEE TAMIL 4K
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",ZEE TAMIL HD
 #EXTGRP:Tamil Pack
-https://allinonereborn.com/spice.m3u8?id=4067
+https://allinonereborn.com/spice.m3u8?id=9284
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png",KTV HD
 #EXTGRP:Tamil Pack
 http://tv.cloudcdn.me:80/live.ts?channelId=43411&uid=5353&deviceMac=00:1A:79:17:D4:65
