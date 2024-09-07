@@ -5,9 +5,9 @@ http://217.20.112.199/suntv/index.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",ZEE TAMIL HD
 #EXTGRP:Tamil Pack
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetamil1/default/zeetamil1.m3u8
-#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",ZEE TAMIL HD
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",ZEE TAMIL
 #EXTGRP:Tamil Pack
-http://z88.ubtvfans.com/live/rx4/1460/a7bcbdf7d52d7e6641c304453555e5ee/index.m3u8
+https://tplay.dinesh29.com.np/live/tataplay-universal/zee-tamil-hd/index.ts
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png",KTV HD
 #EXTGRP:Tamil Pack
 http://tv.cloudcdn.me:80/live.ts?channelId=43411&uid=5353&deviceMac=00:1A:79:17:D4:65
