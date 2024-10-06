@@ -16,7 +16,7 @@ http://217.20.112.199:8888/ZeeTamil/index.m3u8
 http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/36442
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png",JAYA TV HD
 #EXTGRP:Tamil Pack
-http://103.161.34.13:8080/sheraz6855/haider8966/380994
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:FF:04:8C&stream=724511&extension=ts
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png",JAYA MOVIES HD
 #EXTGRP:Tamil Pack
 http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/145638
@@ -28,7 +28,7 @@ http://172.105.123.238:18002/play/a00n
 http://tv.cloudcdn.me:80/live.ts?channelId=43521&uid=14505&deviceMac=00:1A:79:A7:53:75
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Adithya_TV.png",Adhitya
 #EXTGRP:Tamil Pack
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/157469
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:FF:04:8C&stream=724507&extension=ts
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png",Polimer Tv
 #EXTGRP:Tamil Pack
 http://tv.cloudcdn.me:80/live.ts?channelId=85931&uid=14505&deviceMac=00:1A:79:A7:53:75
@@ -109,16 +109,16 @@ https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png",SONY BBC EARTH FHD
 #EXTGRP:Tamil Pack
-http://124.29.225.205:8000/play/a04a/index.m3u8
+http://103.131.214.129:9985/stream/channelid/250139104?ticket=45AB586343A770895F21BE466ED05547677FC634&profile=pass
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Chutti_TV.png",Chutti Tv
 #EXTGRP:Tamil Pack
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/157495
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:FF:04:8C&stream=724506&extension=ts
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png",Pogo
 #EXTGRP:Tamil Pack
-http://14.102.123.50:5001/live/542.m3u8
+http://103.131.214.129:9985/stream/channelid/1585961126?ticket=7256CA4502CDA36706F5B2B807C163F4A56C25A4&profile=pass
 #EXTINF:0,Discovery Kids
 #EXTGRP:Tamil Pack
-http://d4k4u.com:2082/play/live.php?mac=00:1A:79:63:3C:D2&stream=277112&extension=ts
+http://103.131.214.129:9985/stream/channelid/1891890999?ticket=E2FC355F37A4453C9CE62A8D8272952D7EA4FF3F&profile=pass
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png",CN HD+
 #EXTGRP:Tamil Pack
 http://tv.cloudcdn.me/live.ts?channelId=89828&uid=14505&deviceMac=00:1A:79:A7:53:75
