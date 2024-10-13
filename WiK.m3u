@@ -13,7 +13,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetamil1/default/zeetamil1.m3u8
 http://217.20.112.199:8888/ZeeTamil/index.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png",KTV HD
 #EXTGRP:Tamil Pack
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/36442
+http://z88.ubtvfans.com/live/rx4/1465/549725ad5fd6d5081249b25193b6ca51/index.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png",JAYA TV HD
 #EXTGRP:Tamil Pack
 http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:FF:04:8C&stream=724511&extension=ts
@@ -50,12 +50,15 @@ https://allinonereborn.com/spice.m3u8?id=4102
 #EXTINF:0 tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240603_0608231733608464190748767.png",Mega Tv
 #EXTGRP:Tamil Pack
 http://tr.redatvgold.com:80/play/live.php?mac=00:1a:79:4D:49:B3&stream=1526450&extension=ts&play_token=2mQK1mwmWg
+#EXTINF:0 tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240603_0608231733608464190748767.png",Mega Tv
+#EXTGRP:Tamil Pack
+http://ktv.im:8080/1234512345/1234512345/82972
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Makkal_TV.png",Makkal Tv
 #EXTGRP:Tamil Pack
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Life.png",SUN LIFE HD
 #EXTGRP:Tamil Pack
-http://103.161.34.13:8080/sheraz6855/haider8966/380968
+http://ktv.im:8080/1234512345/1234512345/82912
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png",Polimer news
 #EXTGRP:Tamil Pack
 https://ythls.kekikakademi.org/youtube/video/5rQJ4Xw7wfE.m3u8
@@ -109,7 +112,7 @@ https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png",SONY BBC EARTH FHD
 #EXTGRP:Tamil Pack
-http://117.102.16.2:34567/play/a085/index.m3u8
+http://103.49.69.156:8000/play/a01o/index.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Chutti_TV.png",Chutti Tv
 #EXTGRP:Tamil Pack
 http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:FF:04:8C&stream=724506&extension=ts
