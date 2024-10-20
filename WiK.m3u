@@ -1,22 +1,19 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png",SUN TV HD
-#EXTGRP:Tamil Pack
-http://217.20.112.199/suntv/index.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png",SUN TV
 #EXTGRP:Tamil Pack
-https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd?|drmScheme=clearkey&drmLicense=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
+https://tplay.dinesh29.com.np/live/tataplay-universal/sun-tv-hd/index.ts
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",ZEE TAMIL
 #EXTGRP:Tamil Pack
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetamil1/default/zeetamil1.m3u8
+http://195.26.87.217/live.ts?channelId=43423&uid=7435&deviceMac=00:1A:79:B7:2F:EA
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",ZEE TAMIL HD
 #EXTGRP:Tamil Pack
 http://217.20.112.199:8888/ZeeTamil/index.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png",KTV HD
 #EXTGRP:Tamil Pack
-
+https://tplay.dinesh29.com.np/live/tataplay-universal/ktv-hd/index.ts
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png",JAYA TV HD
 #EXTGRP:Tamil Pack
-
+https://tplay.dinesh29.com.np/live/tataplay-universal/jaya-tv-hd/index.ts
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png",JAYA MOVIES HD
 #EXTGRP:Tamil Pack
 
@@ -34,7 +31,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43521&uid=14505&deviceMac=00:1A:79:A7
 http://tv.cloudcdn.me:80/live.ts?channelId=85931&uid=14505&deviceMac=00:1A:79:A7:53:75
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png",Vasanth Tv
 #EXTGRP:Tamil Pack
-
+https://tplay.dinesh29.com.np/live/tataplay-universal/vasanth-tv/index.ts
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthu_Yugam.png",Puthuyugam
 #EXTGRP:Tamil Pack
 http://pythonlived.com:8789/play/live.php?mac=00:1a:79:c6:cc:db&stream=431165&extension=ts
@@ -58,7 +55,7 @@ http://ktv.im:8080/1234512345/1234512345/82972
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Life.png",SUN LIFE HD
 #EXTGRP:Tamil Pack
-
+https://tplay.dinesh29.com.np/live/tataplay-universal/sun-life/index.ts
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png",Polimer news
 #EXTGRP:Tamil Pack
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=TJWQ7zN8S4U
@@ -67,10 +64,10 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=TJWQ7zN8S4U
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=xjiP6cLotFo
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Plus.png",Jaya Plus
 #EXTGRP:Tamil Pack
-https://ythls.kekikakademi.org/youtube/channel/UCOP4Gbw-T1ofcW8vyL89ZDw.m3u8
+https://ythls.armelin.one/channel/UCOP4Gbw-T1ofcW8vyL89ZDw.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_J.png",News J
 #EXTGRP:Tamil Pack
-https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=q-YK8hvAxag&pp
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=nf3ahLC4-lM?si=6Wmtppo-_VnzETNa
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/M_Nadu.png",M Nadu
 #EXTGRP:Tamil Pack
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=KZ5rdFX1qsU
@@ -85,10 +82,10 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=RUzgphgBRzI
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=j1nzTy5q_1Y
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Malayalam.png",Raj News
 #EXTGRP:Tamil Pack
-https://ythls.kekikakademi.org/youtube/channel/UC1mkFVHzP87YQ87PSMxo9MQ.m3u8
+https://ythls.armelin.one/channel/UC1mkFVHzP87YQ87PSMxo9MQ.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.6fPXdgiG2yfa531VA4sJeAHaHa?rs=1&pid=ImgDetMain",Chanakya Tv
 #EXTGRP:Tamil Pack
-https://ythls.kekikakademi.org/youtube/channel/UCoOu4D7foJWfKvcDLxqrF2Q.m3u8
+https://ythls.armelin.one/channel/UCoOu4D7foJWfKvcDLxqrF2Q.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Zee_Tamil_News.webp/352px-Zee_Tamil_News.webp.png",Zee news
 #EXTGRP:Tamil Pack
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=Zzo7cX7bJZQ
@@ -112,7 +109,7 @@ https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png",SONY BBC EARTH FHD
 #EXTGRP:Tamil Pack
-http://103.49.69.156:8000/play/a01o/index.m3u8
+http://175.107.244.52:4455/play/a00q/index.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Chutti_TV.png",Chutti Tv
 #EXTGRP:Tamil Pack
 http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:FF:04:8C&stream=724506&extension=ts
