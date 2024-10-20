@@ -4,7 +4,7 @@
 https://tplay.dinesh29.com.np/live/tataplay-universal/sun-tv-hd/index.ts
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",ZEE TAMIL
 #EXTGRP:Tamil Pack
-http://195.26.87.217/live.ts?channelId=43423&uid=7435&deviceMac=00:1A:79:B7:2F:EA
+http://tv.cloudcdn.me/live/00:1A:79:17:C1:7F/D9CA0D47A1879/43423.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",ZEE TAMIL HD
 #EXTGRP:Tamil Pack
 http://217.20.112.199:8888/ZeeTamil/index.m3u8
@@ -67,7 +67,7 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=xjiP6cLotFo
 https://ythls.armelin.one/channel/UCOP4Gbw-T1ofcW8vyL89ZDw.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_J.png",News J
 #EXTGRP:Tamil Pack
-https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=nf3ahLC4-lM?si=6Wmtppo-_VnzETNa
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=nf3ahLC4-lM?si
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/M_Nadu.png",M Nadu
 #EXTGRP:Tamil Pack
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=KZ5rdFX1qsU
