@@ -4,7 +4,7 @@
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",ZEE TAMIL
 #EXTGRP:Tamil Pack
-https://allinonereborn.com/spicetv-web/player.html?url=https%3A%2F%2Fallinonereborn.com%2Fspice.m3u8%3Fid%3D4067&name=ZEE%20TAMIL%204K
+http://217.20.112.199:8080/ZeeTamil/index.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",ZEE TAMIL HD
 #EXTGRP:Tamil Pack
 http://217.20.112.199:8888/ZeeTamil/index.m3u8
