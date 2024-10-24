@@ -4,7 +4,7 @@
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",ZEE TAMIL
 #EXTGRP:Tamil Pack
-http://217.20.112.199:8080/ZeeTamil/index.m3u8
+http://tv.cloudcdn.me/live/00:1A:79:17:C1:7F/D9CA0D47A1879/43423.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",ZEE TAMIL HD
 #EXTGRP:Tamil Pack
 http://217.20.112.199:8888/ZeeTamil/index.m3u8
