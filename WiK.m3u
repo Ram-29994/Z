@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png",SUN TV
 #EXTGRP:Tamil Pack
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&checkedby:iptvcat.com
+
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",ZEE TAMIL
 #EXTGRP:Tamil Pack
 http://195.26.87.217/live.ts?channelId=43423&uid=7435&deviceMac=00:1A:79:B7:2F:EA
