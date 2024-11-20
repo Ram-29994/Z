@@ -17,6 +17,9 @@ http://195.26.87.217/live.ts?channelId=43423&uid=7435&deviceMac=00:1A:79:B7:2F:E
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",ZEE TAMIL 2
 #EXTGRP:Tamil Pack
 http://tv.cloudcdn.me/live.ts?channelId=43423&uid=6469&deviceMac=00:1A:79:B7:2F:EA
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",ZEE TAMIL 3
+#EXTGRP:Tamil Pack
+http://tv.cloudcdn.me/live.ts?channelId=43423&uid=15531&deviceMac=00:1A:79:09:2B:88
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png",KTV HD
 #EXTGRP:Tamil Pack
 http://tv.cloudcdn.me:80/live.ts?channelId=89824&uid=3623&deviceMac=00:1A:79:03:ED:4F
