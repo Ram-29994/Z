@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png",SUN TV 4K
+#EXTGRP:Tamil Pack
+http://z88.ubtvfans.com/live/rx4/1458/a9553aae1a3a9907c048be86ff90a271/index.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png",SUN TV
 #EXTGRP:Tamil Pack
 http://newlife3.wanicelife.com:8880/live/D12m1834/22925265/55249.ts
