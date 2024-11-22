@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png",SUN TV 4K
+#EXTGRP:Tamil Pack
+https://attribute-lung-choir-harbor.trycloudflare.com/jio-tv/portal.php?id=998
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png",SUN TV HD
 #EXTGRP:Tamil Pack
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/3055.ts
