@@ -8,9 +8,6 @@ http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/3055.t
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",ZEE TAMIL HD
 #EXTGRP:Tamil Pack
 http://tv.cloudcdn.me/live.ts?channelId=43423&uid=6469&deviceMac=00:1A:79:B7:2F:EA
-#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",ZEE TAMIL 4K
-#EXTGRP:Tamil Pack
-https://starshare.live:443/live/bana/bana/98897.ts
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png",KTV HD
 #EXTGRP:Tamil Pack
 http://z88.ubtvfans.com/live/rx4/1465/013192739536944b2dd90a8120edfe6e/index.m3u8
