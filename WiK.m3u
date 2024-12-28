@@ -127,7 +127,7 @@ http://tv.cloudcdn.me/live.ts?channelId=89828&uid=14505&deviceMac=00:1A:79:A7:53
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1a:79:B5:AD:1A&stream=1526445&extension=ts&play_token=GAqmzOweJk
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC2.png",SVBC Tamil
 #EXTGRP:Tamil Pack
-https://www.youtube.com/live/PlHY7r6YUnI?si=DipERhE4gCvX5E7B
+https://youtube.com/watch?v=PlHY7r6YUnI
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Tamil.png",Aastha Tamil HD
 #EXTGRP:Tamil Pack
 https://aasthatv.tv/channel/live/aastha_tamil
