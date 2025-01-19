@@ -22,7 +22,7 @@ http://sansat.net:88/live/02029727163269/HLzTNH41jpLM7SF/100124.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=85933&uid=3623&deviceMac=00:1A:79:03:ED:4F
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png",JAYA MOVIE
 #EXTGRP:Tamil Pack
-http://116.202.46.40:9023/JAYA_MOVIES_TAMIL/index.m3u8
+https://tamilultratv.co.in/live/jaya-movies/
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD5_Podhigai.png",DD Tamil
 #EXTGRP:Tamil Pack
 http://172.105.123.238:18002/play/a00n
