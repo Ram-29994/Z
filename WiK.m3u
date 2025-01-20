@@ -16,7 +16,7 @@ http://185.6.12.60/c444a5102ce8075bc57d3230a20c434ffeebd0135b93f3e2a38934fdf59b8
 http://amit.allinonereborn.in/app/ts_live_894.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png",JAYA TV HD
 #EXTGRP:Tamil Pack
-http://sansat.net:88/live/02029727163269/HLzTNH41jpLM7SF/100124.ts
+http://45.148.145.57/IN_JT/index.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png",JAYA MOVIES HD
 #EXTGRP:Tamil Pack
 http://tv.cloudcdn.me:80/live.ts?channelId=85933&uid=3623&deviceMac=00:1A:79:03:ED:4F
@@ -43,10 +43,10 @@ http://pythonlived.com:8789/play/live.php?mac=00:1a:79:c6:cc:db&stream=431165&ex
 https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/pr_live_ire_sd/70946668-e572-4b7d-b5cf-ba52cd3976a1/1.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png",Raj Tv
 #EXTGRP:Tamil Pack
-https://allinonereborn.com/spice.m3u8?id=5211
+http://45.148.145.57/IN_Rajtv/index.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png",Raj Digital Plus
 #EXTGRP:Tamil Pack
-https://allinonereborn.com/spice.m3u8?id=4102
+http://45.148.145.57/IN_RajDigitalPLus/index.m3u8
 #EXTINF:0 tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240603_0608231733608464190748767.png",Mega Tv
 #EXTGRP:Tamil Pack
 http://tr.redatvgold.com:80/play/live.php?mac=00:1a:79:4D:49:B3&stream=1526450&extension=ts&play_token=2mQK1mwmWg
@@ -67,7 +67,7 @@ https://youtube.com/watch?v=Qe5jeq-Y-D4
 https://youtube.com/watch?v=ee1-2tMJyzo
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Plus.png",Jaya Plus
 #EXTGRP:Tamil Pack
-https://ythls-v3.onrender.com/channel/UCOP4Gbw-T1ofcW8vyL89ZDw.m3u8
+http://45.148.145.57/IN_JayaPlus/index.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_J.png",News J
 #EXTGRP:Tamil Pack
 https://youtube.com/watch?v=GwS6wOAIgNM
@@ -85,7 +85,7 @@ https://youtube.com/watch?v=RUzgphgBRzI
 https://youtube.com/watch?v=j1nzTy5q_1Y
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Malayalam.png",Raj News
 #EXTGRP:Tamil Pack
-https://ythls-v3.onrender.com/channel/UC1mkFVHzP87YQ87PSMxo9MQ.m3u8
+http://45.148.145.57/IN_RajNews24x7HD/index.m3u8
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.6fPXdgiG2yfa531VA4sJeAHaHa?rs=1&pid=ImgDetMain",Chanakya Tv
 #EXTGRP:Tamil Pack
 https://live-iptv.github.io/youtube_live/assets/info.m3u8
@@ -109,7 +109,7 @@ https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png",SONY BBC EARTH FHD
 #EXTGRP:Tamil Pack
-http://103.84.57.155:8000/play/a09q/index.m3u8
+http://45.148.145.57/IN_SONYBBCHD/index.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Chutti_TV.png",Chutti Tv
 #EXTGRP:Tamil Pack
 http://amit.allinonereborn.in/app/ts_live_557.m3u8
@@ -124,7 +124,7 @@ http://103.131.214.129:9985/stream/channelid/1891890999?ticket=E2FC355F37A4453C9
 http://tv.cloudcdn.me/live.ts?channelId=89828&uid=14505&deviceMac=00:1A:79:A7:53:75
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jothi_TV.png",Jothi Tv
 #EXTGRP:Tamil Pack
-http://portal.magic8kip.tv:80/play/live.php?mac=00:1a:79:B5:AD:1A&stream=1526445&extension=ts&play_token=GAqmzOweJk
+http://45.148.145.57/IN_JoTV/index.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC2.png",SVBC Tamil
 #EXTGRP:Tamil Pack
 https://youtube.com/watch?v=PlHY7r6YUnI
@@ -139,7 +139,7 @@ https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/chunklist_b464000.m
 https://allinonereborn.com/spice.m3u8?id=851
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Sankara.png",Sri Sankara
 #EXTGRP:Tamil Pack
-https://allinonereborn.com/spice.m3u8?id=1704
+http://45.148.145.57/IND_N/index.m3u8
 #EXTINF:0 tvg-logo="https://jioplus.dinesh29.com.np/smart/ardinesh/logos/sadhguru-television-hd.png",Sadhguru Tv
 #EXTGRP:Tamil Pack
 https://michael-worlds-reveals-guidance.trycloudflare.com/app/live.php?id=1201&e=.m3u
