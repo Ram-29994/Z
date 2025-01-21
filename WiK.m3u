@@ -19,7 +19,7 @@ http://tv.cloudcdn.me/live.ts?channelId=43423&uid=6469&deviceMac=00:1A:79:B7:2F:
 http://45.148.145.57/IN_ZEETAMILHD/index.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png",KTV HD
 #EXTGRP:Tamil Pack
-http://amit.allinonereborn.in/app/ts_live_894.m3u8
+http://45.148.145.57/IN_KT/index.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png",JAYA TV HD
 #EXTGRP:Tamil Pack
 http://45.148.145.57/IN_JT/index.m3u8
@@ -34,7 +34,7 @@ http://172.105.123.238:18002/play/a00n
 http://tv.cloudcdn.me:80/live.ts?channelId=43521&uid=14505&deviceMac=00:1A:79:A7:53:75
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Adithya_TV.png",Adhitya
 #EXTGRP:Tamil Pack
-http://amit.allinonereborn.in/app/ts_live_709.m3u8
+http://45.148.145.57/IN_ADITYATA/index.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png",Polimer Tv
 #EXTGRP:Tamil Pack
 http://45.148.145.57/TAM_POLIMAR/index.m3u8
@@ -64,7 +64,7 @@ http://ktv.im:8080/1234512345/1234512345/82972
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Life.png",SUN LIFE HD
 #EXTGRP:Tamil Pack
-http://amit.allinonereborn.in/app/ts_live_682.m3u8
+http://45.148.145.57/IN_sunlife/index.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png",Polimer news
 #EXTGRP:Tamil Pack
 https://youtube.com/watch?v=Qe5jeq-Y-D4
