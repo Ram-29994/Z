@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png",SUN TV 4K S
+#EXTGRP:Tamil Pack
+http://45.148.145.57/IN_SUNTV/index.m3u8
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png",SUN TV
+#EXTGRP:Tamil Pack
+http://45.148.145.57/IN_SUNT/index.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png",SUN TV 4K
 #EXTGRP:Tamil Pack
 http://amit.allinonereborn.in/app/ts_live_896.m3u8
@@ -8,9 +14,9 @@ http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/3055.t
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",ZEE TAMIL HD
 #EXTGRP:Tamil Pack
 http://tv.cloudcdn.me/live.ts?channelId=43423&uid=6469&deviceMac=00:1A:79:B7:2F:EA
-#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",ZEE TAMIL HD2
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",ZEE TAMIL 4K
 #EXTGRP:Tamil Pack
-http://185.6.12.60/c444a5102ce8075bc57d3230a20c434ffeebd0135b93f3e2a38934fdf59b84800f218ad493c331a368d4fee054de5f27b6e6649b5d3e1c42ae2ea6ba759b44a9c8c49602c17e1b45271195e211ee7fb1b1/index.m3u8
+http://45.148.145.57/IN_ZEETAMILHD/index.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png",KTV HD
 #EXTGRP:Tamil Pack
 http://amit.allinonereborn.in/app/ts_live_894.m3u8
@@ -19,7 +25,7 @@ http://amit.allinonereborn.in/app/ts_live_894.m3u8
 http://45.148.145.57/IN_JT/index.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png",JAYA MOVIES HD
 #EXTGRP:Tamil Pack
-http://tv.cloudcdn.me:80/live.ts?channelId=85933&uid=3623&deviceMac=00:1A:79:03:ED:4F
+http://45.148.145.57/IN_D2HJAYAMOVIE/index.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD5_Podhigai.png",DD Tamil
 #EXTGRP:Tamil Pack
 http://172.105.123.238:18002/play/a00n
@@ -31,7 +37,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43521&uid=14505&deviceMac=00:1A:79:A7
 http://amit.allinonereborn.in/app/ts_live_709.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png",Polimer Tv
 #EXTGRP:Tamil Pack
-http://tv.cloudcdn.me:80/live.ts?channelId=85931&uid=14505&deviceMac=00:1A:79:A7:53:75
+http://45.148.145.57/TAM_POLIMAR/index.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png",Vasanth Tv
 #EXTGRP:Tamil Pack
 https://tplay.dinesh29.com.np/live/tataplay-universal/vasanth-tv/index.ts
@@ -40,7 +46,7 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/vasanth-tv/index.ts
 http://pythonlived.com:8789/play/live.php?mac=00:1a:79:c6:cc:db&stream=431165&extension=ts
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vendhar_TV.png",Vendhar Tv
 #EXTGRP:Tamil Pack
-https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/pr_live_ire_sd/70946668-e572-4b7d-b5cf-ba52cd3976a1/1.m3u8
+http://45.148.145.57/Tamil_VendharTV/index.m3u8
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png",Raj Tv
 #EXTGRP:Tamil Pack
 http://45.148.145.57/IN_Rajtv/index.m3u8
