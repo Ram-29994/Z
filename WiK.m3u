@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png",SUN TV Neo
 #EXTGRP:Tamil Pack
-http://humsab.xyz/IN_ST/index.m3u8
+http://fm1077.serv00.net/Smart.php?id=Suntv
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png",SUN TV 4K S
 #EXTGRP:Tamil Pack
 http://45.148.145.57/IN_SUNTV/index.m3u8
