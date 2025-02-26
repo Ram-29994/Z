@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png",SUN TV Neo
 #EXTGRP:Tamil Pack
-http://humsab.xyz/IN_SUNT/index.m3u8
+https://ardinesh-tataplay.puspas.com.np/live/tataplay-universal/sun-tv-hd/index.ts
 #EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png",SUN TV 4K S
 #EXTGRP:Tamil Pack
 http://45.148.145.57/IN_SUNTV/index.m3u8
