@@ -1,0 +1,210 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png",SUN TV
+#EXTGRP:Tamil Pack
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&checkedby:iptvcat.com
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",ZEE TAMIL
+#EXTGRP:Tamil Pack
+https://allinonereborn.com/spicetv-web/player.html?url=https%3A%2F%2Fallinonereborn.com%2Fspice.m3u8%3Fid%3D4067&name=ZEE%20TAMIL%204K
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",ZEE TAMIL HD
+#EXTGRP:Tamil Pack
+http://217.20.112.199:8888/ZeeTamil/index.m3u8
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png",KTV HD
+#EXTGRP:Tamil Pack
+https://tplay.dinesh29.com.np/live/tataplay-universal/ktv-hd/index.ts
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png",JAYA TV HD
+#EXTGRP:Tamil Pack
+https://tplay.dinesh29.com.np/live/tataplay-universal/jaya-tv-hd/index.ts
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png",JAYA MOVIES HD
+#EXTGRP:Tamil Pack
+
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD5_Podhigai.png",DD Tamil
+#EXTGRP:Tamil Pack
+http://172.105.123.238:18002/play/a00n
+#EXTINF:0 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/sirippoli-tv-white.png",Kalaignar Sirippoli
+#EXTGRP:Tamil Pack
+http://tv.cloudcdn.me:80/live.ts?channelId=43521&uid=14505&deviceMac=00:1A:79:A7:53:75
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Adithya_TV.png",Adhitya
+#EXTGRP:Tamil Pack
+
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png",Polimer Tv
+#EXTGRP:Tamil Pack
+http://tv.cloudcdn.me:80/live.ts?channelId=85931&uid=14505&deviceMac=00:1A:79:A7:53:75
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png",Vasanth Tv
+#EXTGRP:Tamil Pack
+https://tplay.dinesh29.com.np/live/tataplay-universal/vasanth-tv/index.ts
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthu_Yugam.png",Puthuyugam
+#EXTGRP:Tamil Pack
+http://pythonlived.com:8789/play/live.php?mac=00:1a:79:c6:cc:db&stream=431165&extension=ts
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vendhar_TV.png",Vendhar Tv
+#EXTGRP:Tamil Pack
+https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/pr_live_ire_sd/70946668-e572-4b7d-b5cf-ba52cd3976a1/1.m3u8
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png",Raj Tv
+#EXTGRP:Tamil Pack
+https://allinonereborn.com/spice.m3u8?id=5211
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png",Raj Digital Plus
+#EXTGRP:Tamil Pack
+https://allinonereborn.com/spice.m3u8?id=4102
+#EXTINF:0 tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240603_0608231733608464190748767.png",Mega Tv
+#EXTGRP:Tamil Pack
+http://tr.redatvgold.com:80/play/live.php?mac=00:1a:79:4D:49:B3&stream=1526450&extension=ts&play_token=2mQK1mwmWg
+#EXTINF:0 tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240603_0608231733608464190748767.png",Mega Tv
+#EXTGRP:Tamil Pack
+http://ktv.im:8080/1234512345/1234512345/82972
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Makkal_TV.png",Makkal Tv
+#EXTGRP:Tamil Pack
+https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Life.png",SUN LIFE HD
+#EXTGRP:Tamil Pack
+https://tplay.dinesh29.com.np/live/tataplay-universal/sun-life/index.ts
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png",Polimer news
+#EXTGRP:Tamil Pack
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=TJWQ7zN8S4U
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Janam_TV.png",Janam Tamil
+#EXTGRP:Tamil Pack
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=xjiP6cLotFo
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Plus.png",Jaya Plus
+#EXTGRP:Tamil Pack
+https://ythls.armelin.one/channel/UCOP4Gbw-T1ofcW8vyL89ZDw.m3u8
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_J.png",News J
+#EXTGRP:Tamil Pack
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=nf3ahLC4-lM
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/M_Nadu.png",M Nadu
+#EXTGRP:Tamil Pack
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=KZ5rdFX1qsU
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Malai_Murasu.png",Malaimurasu
+#EXTGRP:Tamil Pack
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=SDACb4NSqNw
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png",Puthiya thalaimurai
+#EXTGRP:Tamil Pack
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=RUzgphgBRzI
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Thanthi_TV.png",Thanthi
+#EXTGRP:Tamil Pack
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=j1nzTy5q_1Y
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Malayalam.png",Raj News
+#EXTGRP:Tamil Pack
+https://ythls.armelin.one/channel/UC1mkFVHzP87YQ87PSMxo9MQ.m3u8
+#EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.6fPXdgiG2yfa531VA4sJeAHaHa?rs=1&pid=ImgDetMain",Chanakya Tv
+#EXTGRP:Tamil Pack
+https://ythls.armelin.one/channel/UCoOu4D7foJWfKvcDLxqrF2Q.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Zee_Tamil_News.webp/352px-Zee_Tamil_News.webp.png",Zee news
+#EXTGRP:Tamil Pack
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=Zzo7cX7bJZQ
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/News18_tamilnadu_logo.png/revision/latest?cb=20191220041016",News18 Tamil
+#EXTGRP:Tamil Pack
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=E4ndYFfdlb8
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News7_Tamil.png",News7
+#EXTGRP:Tamil Pack
+https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/news7_nim_https/44fce422-9770-48ef-bff5-96eaa1c0f999/3.m3u8
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png",DD News HD
+#EXTGRP:Tamil Pack
+http://172.105.123.238:18002/play/a02x
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajyasabha.png",Lok Sabha
+#EXTGRP:Tamil Pack
+http://172.105.123.238:18002/play/a00s
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png",Republic TV
+#EXTGRP:Tamil Pack
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8
+#EXTINF:0,RT
+#EXTGRP:Tamil Pack
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png",SONY BBC EARTH FHD
+#EXTGRP:Tamil Pack
+http://175.107.244.52:4455/play/a00q/index.m3u8
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Chutti_TV.png",Chutti Tv
+#EXTGRP:Tamil Pack
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:FF:04:8C&stream=724506&extension=ts
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png",Pogo
+#EXTGRP:Tamil Pack
+http://103.131.214.129:9985/stream/channelid/1585961126?ticket=7256CA4502CDA36706F5B2B807C163F4A56C25A4&profile=pass
+#EXTINF:0,Discovery Kids
+#EXTGRP:Tamil Pack
+http://103.131.214.129:9985/stream/channelid/1891890999?ticket=E2FC355F37A4453C9CE62A8D8272952D7EA4FF3F&profile=pass
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png",CN HD+
+#EXTGRP:Tamil Pack
+http://tv.cloudcdn.me/live.ts?channelId=89828&uid=14505&deviceMac=00:1A:79:A7:53:75
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jothi_TV.png",Jothi Tv
+#EXTGRP:Tamil Pack
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1a:79:B5:AD:1A&stream=1526445&extension=ts&play_token=GAqmzOweJk
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC2.png",SVBC Tamil
+#EXTGRP:Tamil Pack
+https://ythls.kekikakademi.org/youtube/channel/UCTboTRX74UydvU_cBdm_cCQ.m3u8
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Tamil.png",Aastha Tamil
+#EXTGRP:Tamil Pack
+https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/chunklist_b464000.m3u8
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SaiTV.png",Sai Tv
+#EXTGRP:Tamil Pack
+https://allinonereborn.com/spice.m3u8?id=851
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Sankara.png",Sri Sankara
+#EXTGRP:Tamil Pack
+https://allinonereborn.com/spice.m3u8?id=1704
+#EXTINF:0 tvg-logo="https://jioplus.dinesh29.com.np/smart/ardinesh/logos/sadhguru-television-hd.png",Sadhguru Tv
+#EXTGRP:Tamil Pack
+https://michael-worlds-reveals-guidance.trycloudflare.com/app/live.php?id=1201&e=.m3u
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajyasabha.png",SANSAD RAJYA SABHA
+#EXTGRP:Tamil Pack
+http://172.105.123.238:18002/play/a00t
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajyasabha.png",Lok Sabha Tamil YT
+#EXTGRP:Tamil Pack
+https://ythls.kekikakademi.org/youtube/video/IInJ6Vrcu9Q.m3u8
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png",DD NEWS YT
+#EXTGRP:Tamil Pack
+https://ythls.kekikakademi.org/youtube/channel/UCKwucPzHZ7zCUIf7If-Wo1g.m3u8
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png",DD Nagaland
+#EXTGRP:Tamil Pack
+http://172.105.123.238:18002/play/a033
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png",DD National
+#EXTGRP:Tamil Pack
+http://172.105.123.238:18002/play/a003
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpAhaa-9Xgf-JiNASce7vP94LbwulW88qdsw6sSx66XOG4chDZSSjmGCQ&s=10",DD Oriya
+#EXTGRP:Tamil Pack
+http://172.105.123.238:18002/play/a02n
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Punjabi.png",DD Punjabi
+#EXTGRP:Tamil Pack
+http://172.105.123.238:18002/play/a00o
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajasthan_Jaipur.png",DD RAJASTHAN
+#EXTGRP:Tamil Pack
+http://172.105.123.238:18002/play/a02a
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png",DD SPORTS
+#EXTGRP:Tamil Pack
+http://172.105.123.238:18002/play/a02b
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png",DD SPORTS HD
+#EXTGRP:Tamil Pack
+http://172.105.123.238:18002/play/a03d
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sahayadri.png",DD Sahyadri
+#EXTGRP:Tamil Pack
+http://172.105.123.238:18002/play/a00p
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/DD_Saptagiri_New_logo.jpg/220px-DD_Saptagiri_New_logo.jpg",DD Saptagiri
+#EXTGRP:Tamil Pack
+http://172.105.123.238:18002/play/a02k
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DD_Tripura_2021.png/revision/latest?cb=20240323121555",DD TRIPURA
+#EXTGRP:Tamil Pack
+http://172.105.123.238:18002/play/a02f
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Uttar_Pradesh.png",DD UP
+#EXTGRP:Tamil Pack
+http://172.105.123.238:18002/play/a028
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx_gxPxMxjKNptyF9CwXb0UwwVmiESFgUh2A&usqp=CAU",DD UTTARAKHAND
+#EXTGRP:Tamil Pack
+http://172.105.123.238:18002/play/a02j
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_urdu.png",DD Urdu
+#EXTGRP:Tamil Pack
+http://172.105.123.238:18002/play/a03b
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/DD_Yadagiri_logo.png",DD Yadagiri
+#EXTGRP:Tamil Pack
+http://172.105.123.238:18002/play/a027
+#EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png",SONY BBC EARTH Origin Tamil
+#EXTGRP:Tamil Pack
+http://extraott.com:80/4183813400/7514985385/187251
+#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/olJBnzmegLV8tmHgmJxovGrB85s-DtPsxwV0_cvfdYth953-8gO6it54UKwJ0C0iVK0",NaMo YT
+#EXTGRP:Tamil Pack
+https://ythls.kekikakademi.org/youtube/channel/UC1NF71EwP41VdjAU1iXdLkw.m3u8
+#EXTINF:0 ,Test Channel 1
+#EXTGRP:Tamil Pack
+https://allinonereborn.com/spice.m3u8?id=818
+#EXTINF:0 ,Test Channel 2
+#EXTGRP:Tamil Pack
+https://allinonereborn.com/spice.m3u8?id=918
+#EXTINF:0 ,Test Channel 2
+#EXTGRP:Tamil Pack
+https://allinonereborn.com/spice.m3u8?id=899
+
+
